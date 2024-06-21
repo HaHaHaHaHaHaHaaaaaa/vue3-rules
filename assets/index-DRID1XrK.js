@@ -1,4 +1,4 @@
-const __vite__fileDeps=["/vue3-rules/assets/NotFound-DLqV2TFx.js","/vue3-rules/assets/NotFound-BdkU2Ijm.css"],__vite__mapDeps=i=>i.map(i=>__vite__fileDeps[i]);
+const __vite__fileDeps=["vue3-rules/assets/NotFound-DLqV2TFx.js","vue3-rules/assets/NotFound-BdkU2Ijm.css"],__vite__mapDeps=i=>i.map(i=>__vite__fileDeps[i]);
 (function(){const t=document.createElement("link").relList;if(t&&t.supports&&t.supports("modulepreload"))return;for(const l of document.querySelectorAll('link[rel="modulepreload"]'))o(l);new MutationObserver(l=>{for(const a of l)if(a.type==="childList")for(const r of a.addedNodes)r.tagName==="LINK"&&r.rel==="modulepreload"&&o(r)}).observe(document,{childList:!0,subtree:!0});function n(l){const a={};return l.integrity&&(a.integrity=l.integrity),l.referrerPolicy&&(a.referrerPolicy=l.referrerPolicy),l.crossOrigin==="use-credentials"?a.credentials="include":l.crossOrigin==="anonymous"?a.credentials="omit":a.credentials="same-origin",a}function o(l){if(l.ep)return;l.ep=!0;const a=n(l);fetch(l.href,a)}})();/**
 * @vue/shared v3.4.29
 * (c) 2018-present Yuxi (Evan) You and Vue contributors
