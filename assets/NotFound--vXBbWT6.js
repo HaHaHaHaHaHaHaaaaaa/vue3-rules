@@ -1,0 +1,1 @@
+import{_ as o,o as e,g as c}from"./index-Bju66hf3.js";const t={},s={class:"p404"};function n(_,a){return e(),c("div",s,"404 Not Found Page.")}const d=o(t,[["render",n],["__scopeId","data-v-c7b4df91"]]);export{d as default};
